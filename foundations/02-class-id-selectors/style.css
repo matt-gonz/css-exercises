@@ -1,0 +1,19 @@
+.subsection{
+    background-color: rgb(248, 205, 205);
+    font-family: Verdana, DejaVuSans, sans-serif;
+}
+
+#unique{
+    color: hsl(236, 100%, 50%);
+    font-size: 36px;
+}
+
+.subsection.header{
+    font-size: 24px;
+}
+
+#single{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
